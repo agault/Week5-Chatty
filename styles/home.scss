@@ -7,32 +7,38 @@
     }
 
     .chatbar {
-      background: tomato;
-      border-top: 1px solid black;
+      background: #3A71A8;
+      border-top: 1px solid #20365F;
       bottom: 0;
       display: flex;
       left: 0;
       padding: 5px;
       position: fixed;
       right: 0;
+      border-radius: 5px;
+
     }
 
     .chatbar-message,
     .chatbar-username {
-      border: 1px solid black;
+      border: 1px solid #20365F;
       display: block;
       height: 40px;
       line-height: 40px;
       margin: 5px;
       padding: 0 9px;
+      border-radius:5px;
+      color: #20365F;
     }
 
     .chatbar-message {
       flex: 8;
+      background-color: #F6D7E0;
     }
 
     .chatbar-username {
       flex: 2;
+      background-color: #F6D7E0;
     }
 
     .message {
@@ -50,6 +56,7 @@
       overflow: hidden;
       margin: 5px;
       padding: 0 10px;
+
     }
 
     .message-content {
@@ -62,14 +69,17 @@
     }
 
     .navbar {
-      background: tomato;
-      border-bottom: 1px solid black;
+      background: #3A71A8;
+      border-bottom: 1px solid #20365F;
       height: 60px;
       left: 0;
       padding: 0 10px;
       position: fixed;
       right: 0;
       top: 0;
+      color:#F6D7E0;
+      border-radius: 5px;
+
 
     }
     div.Counter{
@@ -80,7 +90,6 @@
     .navbar-brand {
       color: inherit;
       display: block;
-      float: left;
       font-weight: 700;
       font-size: 28px;
       height: 60px;
