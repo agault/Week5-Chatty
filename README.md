@@ -47,3 +47,13 @@ npm run lint
 # Week5-Chatty
 # Week5-Chatty
 # Week5-Chatty
+
+###
+A functional  chat application that keeps tabs on the number of clients and the user name.
+
+###
+Pictures of the app
+![" Picture of intro page, origional state"](https://github.com/agault/Week5-Chatty/blob/master/PicturesOfApp/Screen%20Shot%202017-08-23%20at%207.48.54%20PM.png?raw=true)
+![" Changed name to Bill and notified of change"](https://github.com/agault/Week5-Chatty/blob/master/PicturesOfApp/Screen%20Shot%202017-08-23%20at%207.49.12%20PM.png?raw=true)
+![" Opening a second window will increase the human count "](https://github.com/agault/Week5-Chatty/blob/master/PicturesOfApp/Screen%20Shot%202017-08-23%20at%207.49.35%20PM.png?raw=true)
+![" Two windows interacting and text visible by both users"](https://github.com/agault/Week5-Chatty/blob/master/PicturesOfApp/Screen%20Shot%202017-08-23%20at%207.49.58%20PM.png?raw=true)
