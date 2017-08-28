@@ -54,7 +54,7 @@ class App extends Component {
               let oldName = this.state.oldUser.name;
 
               this.setState({
-                currentUser: {name: data.username},
+                //currentUser: {name: data.username},
                 oldUser: {name: this.state.currentUser.name}
               });
 
