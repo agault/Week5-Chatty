@@ -43,10 +43,8 @@ npm run lint
 * Webpack
 * [babel-loader](https://github.com/babel/babel-loader)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
-# Week5-Chatty
-# Week5-Chatty
-# Week5-Chatty
-# Week5-Chatty
+# ChattyApp
+
 
 ###
 A functional  chat application that keeps tabs on the number of clients and the user name.
